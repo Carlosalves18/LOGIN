@@ -1,10 +1,8 @@
 import styled from 'styled-components';
 
 export const Img = styled.img`
-
 `
 export const H1 = styled.h1`
-color: white;
 
 `
 

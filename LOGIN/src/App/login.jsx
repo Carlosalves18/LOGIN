@@ -20,8 +20,8 @@ const Login = () => {
 
     return (    
         <> 
-        <Img src="../src/public/LOG-removebg-preview.png" height="300px"/>
-        <H1>Welcome to website</H1>
+        {/* <Img src="../src/public/LOG-removebg-preview.png" height="300px"/> */}
+        <H1></H1>
    <Container>
             <Form onSubmit={handleSubmit}>
                 <Titulo>Login</Titulo>
